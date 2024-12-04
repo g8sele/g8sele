@@ -2,6 +2,6 @@
 - 👀 I'm interested in Web Designer, Front-End...
 - 🌱 I am currently learning Systems Development.
 - 💞️ I try to collaborate with companies that give my creativity the opportunity.
-- 📫 How to contact me on Instagram @g8sele and email: leitegisele03@gmail.com
+- 📫 How to contact me: on Instagram @g8sele and email: leitegisele03@gmail.com
 - 😄 Pronouns: she, her...
 - ⚡ Fun fact: I'm also an undergraduate student in Social Work.
