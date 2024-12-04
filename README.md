@@ -1,7 +1,7 @@
-- 👋 Hello, I'm Gisele Leite
+- 👋 Hello, I'm Gisele Leite!
 - 👀 I'm interested in Web Designer, Front-End...
-- 🌱 I am currently learning Systems Development
-- 💞️ I try to collaborate with companies that give my creativity the opportunity
-- 📫 How to contact me @g8sele on Instagram and email: leigisele03@gmail.com
+- 🌱 I am currently learning Systems Development.
+- 💞️ I try to collaborate with companies that give my creativity the opportunity.
+- 📫 How to contact me @g8sele on Instagram and email: leitegisele03@gmail.com
 - 😄 Pronouns: she, her...
 - ⚡ Fun fact: I'm also an undergraduate student in Social Work.
