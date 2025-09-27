@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Gisele Leite!
-- 👀 I'm interested in Web Designer, Front-End...
+- 👀 I'm interested in Web Designer, Front-End, Back-End...
 - 🌱 I am currently learning Systems Development.
 - 💞️ I try to collaborate with companies that give my creativity the opportunity.
 - 📫 How to contact me: on Instagram @g8sele and email: leitegisele03@gmail.com
