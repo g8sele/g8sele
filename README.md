@@ -2,7 +2,7 @@
 
 <img src="assents/pucca21.gif" width="180"/>
 
-# 𝓖𝓲𝓼𝓮𝓵𝓮 𝓛𝓮𝓲𝓽𝓮 🌸
+# 𝓞𝓵á, 𝓮𝓾 𝓼𝓸𝓾 𝓖𝓲𝓼𝓮𝓵𝓮 𝓛𝓮𝓲𝓽𝓮 🌸 🌸
 
 💻 Analista de Backup • 🎓 Técnica em Desenvolvimento de Sistemas • 📚 Graduanda em Serviço Social
 
