@@ -2,7 +2,7 @@
 
 <img src="SEU_GIF_DA_PUCCA" width="180"/>
 
-# Olá, eu sou a Gisele 👋
+# Olá, eu sou a Gisele Leite 👋
 
 💻 Analista de Backup  
 🎓 Técnica em Desenvolvimento de Sistemas  
@@ -16,13 +16,13 @@
 
 ### 🌸 Sobre mim
 
-🌱 Aprendendo Cloud, Linux e Automação
+🌱 Aprendendo Cloud, Linux e Java
 
-💾 Apaixonada por Infraestrutura e Backup
+💾 Apaixonada por Desenvolvimento, Banco de Dados e Backup
 
 🤝 Interesse em TI, Inclusão Digital e Políticas Públicas
 
-☕ Café + Música = Código
+☕ Chocolate + Música = Código
 
 ---
 
@@ -38,8 +38,6 @@
 
 📧 **leitegisele03@gmail.com**
 
-💼 LinkedIn
-
-📷 @g8sele
+💼 LinkedIn https//www.linkedin.com/in/gisele-leite-de-deus/
 
 ---
