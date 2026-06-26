@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pucca21.gif" width="180"/>
+<img src="assents/pucca21.gif" width="180"/>
 
 # 𝓖𝓲𝓼𝓮𝓵𝓮 𝓛𝓮𝓲𝓽𝓮 🌸
 
