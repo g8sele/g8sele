@@ -2,11 +2,11 @@
 
 <img src="assents/pucca21.gif" width="180"/>
 
-# 𝓞𝓵á, 𝓮𝓾 𝓼𝓸𝓾 𝓖𝓲𝓼𝓮𝓵𝓮 𝓛𝓮𝓲𝓽𝓮 🌸 🌸
+# ✨ 𝓞𝓲, 𝓮𝓾 𝓼𝓸𝓾 𝓪 𝓖𝓲𝓼𝓮𝓵𝓮 𝓛𝓮𝓲𝓽𝓮 🌸
 
-💻 Analista de Backup • 🎓 Técnica em Desenvolvimento de Sistemas • 📚 Graduanda em Serviço Social
+💻 𝓐𝓷𝓪𝓵𝓲𝓼𝓽𝓪 𝓭𝓮 𝓑𝓪𝓬𝓴𝓾𝓹 • 🎓 𝓣é𝓬𝓷𝓲𝓬𝓪 𝓮𝓶 𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓲𝓶𝓮𝓷𝓽𝓸 𝓭𝓮 𝓢𝓲𝓼𝓽𝓮𝓶𝓪𝓼 • 📚 𝓖𝓻𝓪𝓭𝓾𝓪𝓷𝓭𝓪 𝓮𝓶 𝓢𝓮𝓻𝓿𝓲ç𝓸 𝓢𝓸𝓬𝓲𝓪𝓵
 
-*"A tecnologia também é uma ferramenta para transformar vidas."* 💙
+*"𝓐 𝓽𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪 𝓽𝓪𝓶𝓫é𝓶 é 𝓾𝓶𝓪 𝓯𝓮𝓻𝓻𝓪𝓶𝓮𝓷𝓽𝓪 𝓹𝓪𝓻𝓪 𝓽𝓻𝓪𝓷𝓼𝓯𝓸𝓻𝓶𝓪𝓻 𝓿𝓲𝓭𝓪𝓼."* 💙
 
 </div>
 
