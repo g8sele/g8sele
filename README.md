@@ -1,43 +1,53 @@
 <div align="center">
 
-<img src="SEU_GIF_DA_PUCCA" width="180"/>
+<img src="assets/pucca21.gif" width="180"/>
 
-# Olá, eu sou a Gisele Leite 👋
+# 𝓖𝓲𝓼𝓮𝓵𝓮 𝓛𝓮𝓲𝓽𝓮 🌸
 
-💻 Analista de Backup  
-🎓 Técnica em Desenvolvimento de Sistemas  
-📚 Graduanda em Serviço Social
+💻 Analista de Backup • 🎓 Técnica em Desenvolvimento de Sistemas • 📚 Graduanda em Serviço Social
 
-*"Tecnologia também é sobre transformar vidas."* 💙
+*"A tecnologia também é uma ferramenta para transformar vidas."* 💙
 
 </div>
 
 ---
 
-### 🌸 Sobre mim
+## 🌸 Sobre mim
 
-🌱 Aprendendo Cloud, Linux e Java
+🌱 Atualmente estudando **Cloud, Linux e Java**
 
-💾 Apaixonada por Desenvolvimento, Banco de Dados e Backup
+💾 Apaixonada por **Desenvolvimento, Banco de Dados, Backup e Infraestrutura**
 
-🤝 Interesse em TI, Inclusão Digital e Políticas Públicas
+🤝 Tenho interesse em **Tecnologia, Inclusão Digital e Políticas Públicas**
 
-☕ Chocolate + Música = Código
+🍫 Chocolate + 🎵 Música = 💻 Código
 
 ---
 
-### 💻 Tecnologias
+## 💻 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=windows,linux,git,github,html,css,js,cs,mysql,vscode,powershell" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,html,css,js,java,cs,mysql,vscode,powershell" />
 </p>
 
 ---
 
-### 📫 Contato
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=g8sele&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g8sele&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contato
 
 📧 **leitegisele03@gmail.com**
 
-💼 LinkedIn https//www.linkedin.com/in/gisele-leite-de-deus/
+💼 LinkedIn: **www.linkedin.com/in/gisele-leite-de-deus/**
 
----
+✨ Obrigada pela visita ao meu perfil!
