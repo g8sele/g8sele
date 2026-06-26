@@ -1,7 +1,45 @@
-- 👋 Hello, I'm Gisele Leite!
-- 👀 I'm interested in Web Designer, Front-End, Back-End...
-- 🌱 I am currently learning Systems Development.
-- 💞️ I try to collaborate with companies that give my creativity the opportunity.
-- 📫 How to contact me: on Instagram @g8sele and email: leitegisele03@gmail.com
-- 😄 Pronouns: she, her...
-- ⚡ Fun fact: I'm also an undergraduate student in Social Work.
+<div align="center">
+
+<img src="SEU_GIF_DA_PUCCA" width="180"/>
+
+# Olá, eu sou a Gisele 👋
+
+💻 Analista de Backup  
+🎓 Técnica em Desenvolvimento de Sistemas  
+📚 Graduanda em Serviço Social
+
+*"Tecnologia também é sobre transformar vidas."* 💙
+
+</div>
+
+---
+
+### 🌸 Sobre mim
+
+🌱 Aprendendo Cloud, Linux e Automação
+
+💾 Apaixonada por Infraestrutura e Backup
+
+🤝 Interesse em TI, Inclusão Digital e Políticas Públicas
+
+☕ Café + Música = Código
+
+---
+
+### 💻 Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=windows,linux,git,github,html,css,js,cs,mysql,vscode,powershell" />
+</p>
+
+---
+
+### 📫 Contato
+
+📧 **leitegisele03@gmail.com**
+
+💼 LinkedIn
+
+📷 @g8sele
+
+---
